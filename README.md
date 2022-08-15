@@ -1,4 +1,4 @@
-# Practhon-IISc
+# Practathon-IISc
 Fashion Recommendation Problem.
 
 Problem Statement
