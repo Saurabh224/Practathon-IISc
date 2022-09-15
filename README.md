@@ -1,4 +1,4 @@
-# Hackathon-IISc
+# Datathon-IISc
 Fashion Recommendation Ssytem Problem.
 
 Problem Statement
