@@ -1,4 +1,4 @@
-# Datathon-IISc Session-based Fashion Recommendation System.
+# Datathon-IISc, Session-based Fashion Recommendation System.
 
 
 Problem Statement and Dataset:
